@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "G7KAgp+NAvABVgxWE1o+GrzLYPzi4od9PP6qvReIRy8=",
+  "Source": "URLShortening",
+  "BasePath": "_content/URLShortening",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
