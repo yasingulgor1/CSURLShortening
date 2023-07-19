@@ -8,9 +8,11 @@ This repository includes a simple Url shortening Service which is built using .N
 
 - Redirect endpoint
   Take a short URL and redirect to the original URL
+![redirect](https://github.com/yasingulgor1/CSURLShortening/assets/68474557/07bc8f29-f60e-4c07-9e49-c48f5faf6b8c)
+
 
 - Custom URL endpoint
   Allow the users to pick a custom shortened URL
 
 - CommonEndPoint
-  Custom shortened URL or Random shortened URL
+  Custom shortened URL or Random shortened URL in same endpoint
