@@ -16,4 +16,5 @@ This repository includes a simple Url shortening Service which is built using .N
 ![CustomInput](https://github.com/yasingulgor1/CSURLShortening/assets/68474557/5100955c-d132-4d44-8056-cb7ac50db3b6)
 
 - CommonEndPoint
-  Custom shortened URL or Random shortened URL in same endpoint
+  Custom shortened URL or Random shortened URL in the same endpoint
+![customOrRandom](https://github.com/yasingulgor1/CSURLShortening/assets/68474557/5a8e34d4-7e7e-417e-8693-e2451e8b0f82)
