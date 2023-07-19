@@ -13,6 +13,7 @@ This repository includes a simple Url shortening Service which is built using .N
 
 - Custom URL endpoint
   Allow the users to pick a custom shortened URL
+![CustomInput](https://github.com/yasingulgor1/CSURLShortening/assets/68474557/5100955c-d132-4d44-8056-cb7ac50db3b6)
 
 - CommonEndPoint
   Custom shortened URL or Random shortened URL in same endpoint
