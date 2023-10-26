@@ -1,4 +1,4 @@
-# Case Study URL Shortening Service
+# URL Shortening Service
 This repository includes a simple Url shortening Service which is built using .Net 7
 
 # Endpoints
